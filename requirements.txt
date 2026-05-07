@@ -1,6 +1,3 @@
-﻿streamlit
+streamlit
 pandas
-pandas_ta
-python-binance
-plotly
-
+requests
